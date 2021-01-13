@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "Zunayed Mahfuz",
+    "occupation": "Full Stack Developer",
+    "description": "Dynamic, forward-thinking individual with an organized and energetic nature focused on growing my professional skills through an internship or staff position with a technology company and using those skills to produce outstanding results for the company.",
+    "image": "profilepic.jpg",
+    "bio": "I have demonstrated success in leadership and communications, with a proven ability to engage teammates and bring them together to creatively solve problems. A “go-to-guy,” I bring attention to detail, a solid work ethic, and the will to succeed to any project in which I am involved. Technical expertise includes Selenium WebDriver, TestNG, Cucumber, Postman, Jenkins, Javascript, React, Ruby on rails, SQL, Junit, TestNG.. ",
+    "contactmessage": "Feel free to visit my GitHub at https://github.com/zmahfuz0613. ",
+    "email": "zunayed.lm@gmail.com",
+    "phone": "316-227-7653",
+    "address": {
+      "street": "13950 87TH AVE",
+      "city": "New York City",
+      "state": "NY",
+      "zip": "11435"
+    },
+    "website": "http://www.zunayedmahfuz.org",
+    "resumedownload": "https://drive.google.com/file/d/1ncPTVkulIH9O_dIil-hdXU45zCs69i1M/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/zunayed.mahfuz.37",
+        "className": "fa fa-facebook"
+      },
+
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/zunayed-m-052420/",
+        "className": "fa fa-linkedin"
+      },
+    
+      {
+        "name": "github",
+        "url": "https://github.com/zmahfuz0613",
+        "className": "fa fa-github"
+      }
+      
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Fort Hays University",
+        "degree": "Bachelors of Computer Science",
+        "graduated": "Continuing",
+        "description": ""
+      },
+      {
+        "school": "General Assembly",
+        "degree": "Software Engineering",
+        "graduated": "June 2020",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "CARGILL",
+        "title": "Quality Automation Engineer",
+        "years": "April 2018 - Present",
+        "description": " Ensure tasks performed are consistent with established company priorities. Report accurate and timelyproject/task status to management. Develops and executes moderate to highly complex scripted automated tests under management supervision"
+      },
+      {
+        "company": "ASRC FEDERAL",
+        "title": "Senior QA Analyst",
+        "years": "August 2016 - January 2018",
+        "description": "Participated in release planning, sprint planning, daily scrum and retrospective in agile scrum environment. Identified and developed test scenarios, Test Cases, Test Scripts and performed Manual testing on the entire Application. Wrote test cases in Gherkin and automated them using CucumberLogged and tracked defects using Atlassian’s JIRA. Developing automated scripts using Java in Selenium Web Driver with Maven, Cucumber, TestNG,Page Object Model (POM)"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "100%"
+      },
+      {
+        "name": "GitHub",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Selenium",
+        "level": "90%"
+      },
+      {
+        "name": "Cucumber",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Ashiyaan",
+        "category": "My Hotel management system",
+        "image": "ashiyaan.jpg",
+        "url": "https://ashiyaan.netlify.app"
+      },
+      {
+        "title": "Trinity place shelter",
+        "category": "I have been given a design by the General Assembly UX to develop and deploy for a non-profit organization",
+        "image": "trinity place shelter.png",
+        "url": "https://trinity-place-shelter.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
